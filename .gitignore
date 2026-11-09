@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+run.txt
+tests.txt
+shot*.png
+report_pr*.json
+tests.txt
+*.docx
